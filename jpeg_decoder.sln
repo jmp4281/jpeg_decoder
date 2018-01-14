@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2010
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "jpeg_decoder", "jpeg_decoder.vcxproj", "{6BE68D30-E918-4844-9466-C10C9C6FAD42}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6BE68D30-E918-4844-9466-C10C9C6FAD42}.Debug|x64.ActiveCfg = Debug|x64
+		{6BE68D30-E918-4844-9466-C10C9C6FAD42}.Debug|x64.Build.0 = Debug|x64
+		{6BE68D30-E918-4844-9466-C10C9C6FAD42}.Debug|x86.ActiveCfg = Debug|Win32
+		{6BE68D30-E918-4844-9466-C10C9C6FAD42}.Debug|x86.Build.0 = Debug|Win32
+		{6BE68D30-E918-4844-9466-C10C9C6FAD42}.Release|x64.ActiveCfg = Release|x64
+		{6BE68D30-E918-4844-9466-C10C9C6FAD42}.Release|x64.Build.0 = Release|x64
+		{6BE68D30-E918-4844-9466-C10C9C6FAD42}.Release|x86.ActiveCfg = Release|Win32
+		{6BE68D30-E918-4844-9466-C10C9C6FAD42}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {34E0F679-29EB-4967-9859-64D8B1997683}
+	EndGlobalSection
+EndGlobal

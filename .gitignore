@@ -1,10 +1,2 @@
-/Debug/jpeg_decoder.exe
-/Debug/jpeg_decoder.ilk
-/Debug/jpeg_decoder.log
-/Debug/jpeg_decoder.obj
-/Debug/jpeg_decoder.pch
-/Debug/jpeg_decoder.pdb
-/Debug/jpeg_decoder.tlog/CL.command.1.tlog
-/Debug/jpeg_decoder.tlog/CL.read.1.tlog
-/Debug/jpeg_decoder.tlog/CL.write.1.tlog
-/Debug/jpeg_decoder.tlog/jpeg_decoder.lastbuildstate
+/Debug/*
+/Release/*
